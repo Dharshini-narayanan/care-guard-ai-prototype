@@ -1,0 +1,1 @@
+"""CareGuard FastAPI backend package."""
